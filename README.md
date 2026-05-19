@@ -4,8 +4,8 @@ Public legal documents for the [SimplyTrain](https://apps.apple.com/) iOS app.
 
 This repository is rendered to GitHub Pages at:
 
-- DE: https://emkay199718.github.io/SimplyTrainTerms/de/
-- EN: https://emkay199718.github.io/SimplyTrainTerms/en/
+- DE: https://simplymichi.github.io/SimplyTrainTerms/de/
+- EN: https://simplymichi.github.io/SimplyTrainTerms/en/
 
 ## Structure
 
