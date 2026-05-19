@@ -1,0 +1,9 @@
+title: SimplyTrain Legal
+description: Allgemeine Geschäftsbedingungen, Datenschutzerklärung und Impressum für die SimplyTrain iOS-App.
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
