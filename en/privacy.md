@@ -3,11 +3,11 @@ title: Privacy Policy
 layout: default
 ---
 
-# SimplyTrain - Privacy Policy
+# ProgliQ - Privacy Policy
 
 Effective date: [INKRAFTTRETENSDATUM]
 
-> This Privacy Policy is a project-specific draft for `SimplyTrain` based on the current code and feature set. Before publication, all placeholders must be completed and the final version should be reviewed by qualified legal counsel.
+> This Privacy Policy is a project-specific draft for `ProgliQ` based on the current code and feature set. Before publication, all placeholders must be completed and the final version should be reviewed by qualified legal counsel.
 
 ## 1. Controller
 
@@ -23,9 +23,9 @@ If legally required or applicable:
 
 ## 2. What this Privacy Policy covers
 
-This Privacy Policy explains which personal data is processed when you use the `SimplyTrain` app, for what purposes, on which legal basis, which recipients may be involved, and which rights data subjects may have.
+This Privacy Policy explains which personal data is processed when you use the `ProgliQ` app, for what purposes, on which legal basis, which recipients may be involved, and which rights data subjects may have.
 
-`SimplyTrain` is an offline-first iOS app for workout planning, workout tracking, and progress documentation. Based on the current implementation, the app processes data primarily on the device. Optional Apple services such as `Sign in with Apple`, `CloudKit`, `HealthKit`, and local iOS notifications are only used where required for specific features or where the user activates them.
+`ProgliQ` is an offline-first iOS app for workout planning, workout tracking, and progress documentation. Based on the current implementation, the app processes data primarily on the device. Optional Apple services such as `Sign in with Apple`, `CloudKit`, `HealthKit`, and local iOS notifications are only used where required for specific features or where the user activates them.
 
 ## 3. Categories of personal data
 
@@ -94,7 +94,7 @@ Where the GDPR applies, we rely in particular on the following legal bases:
 
 ## 6. Local processing on your device
 
-Based on the current implementation, `SimplyTrain` is designed as an offline-first app. This means:
+Based on the current implementation, `ProgliQ` is designed as an offline-first app. This means:
 
 - workout and profile data are generally stored locally on your iPhone,
 - local storage is the primary source of truth,
@@ -129,7 +129,7 @@ Based on the current implementation, these data are stored locally in the iOS Ke
 
 ## 8. In-app purchase, subscriptions, and StoreKit
 
-`SimplyTrain` offers a 60-day trial through the Apple App Store, as well as the following paid products:
+`ProgliQ` offers a 60-day trial through the Apple App Store, as well as the following paid products:
 
 - an auto-renewing 6-month subscription,
 - an auto-renewing annual subscription,
@@ -141,7 +141,7 @@ Payment processing as well as subscription management and cancellation are handl
 
 ## 9. CloudKit and iCloud
 
-`SimplyTrain` uses `CloudKit` (your private iCloud database) for two distinct purposes:
+`ProgliQ` uses `CloudKit` (your private iCloud database) for two distinct purposes:
 
 ### 9.1 Trial and entitlement status (essential)
 
@@ -216,7 +216,7 @@ In this context the device may process in particular:
 
 ## 13. No advertising, no app tracking, no third-party analytics
 
-Based on the current project status, `SimplyTrain` uses:
+Based on the current project status, `ProgliQ` uses:
 
 - no advertising SDKs,
 - no cross-app tracking,
@@ -280,7 +280,7 @@ You can already change or delete many data elements directly in the app. For pri
 
 ## 18. Sign-out, account, and data deletion in the app
 
-`SimplyTrain` provides two distinct in-app actions to interrupt or end usage:
+`ProgliQ` provides two distinct in-app actions to interrupt or end usage:
 
 ### 18.1 Sign out
 
@@ -303,7 +303,7 @@ Using the "Delete account" function in the profile/settings area, the following 
 
 ### 18.3 Important limitations
 
-- The record marking the start of the trial (`firstSignedInAt`, see Section 9.1) remains in your private iCloud database for systemic reasons and is **not** removed by in-app account deletion. The purpose is to prevent a repeated trial with the same Apple ID. Full removal of this record can be done on the Apple side via `Settings` → Apple ID → `iCloud` → `Apps using iCloud` → `SimplyTrain`.
+- The record marking the start of the trial (`firstSignedInAt`, see Section 9.1) remains in your private iCloud database for systemic reasons and is **not** removed by in-app account deletion. The purpose is to prevent a repeated trial with the same Apple ID. Full removal of this record can be done on the Apple side via `Settings` → Apple ID → `iCloud` → `Apps using iCloud` → `ProgliQ`.
 - An in-app subscription or `Lifetime` entitlement acquired through Apple remains with Apple and is not cancelled by in-app account deletion. Cancellation of a subscription must be done through the Apple ID settings.
 - Data already written to Apple Health is not automatically removed from Apple Health by the app. Deletion can be done through the Apple Health app or Apple settings.
 

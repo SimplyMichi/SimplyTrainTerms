@@ -3,11 +3,11 @@ title: Terms of Use & EULA
 layout: default
 ---
 
-# SimplyTrain - Terms of Use and End User License Agreement
+# ProgliQ - Terms of Use and End User License Agreement
 
 Effective date: [INKRAFTTRETENSDATUM]
 
-> This document is a practical draft for the `SimplyTrain` app. Before publication, it must be completed with the real provider and contact details and should ideally be reviewed by qualified legal counsel.
+> This document is a practical draft for the `ProgliQ` app. Before publication, it must be completed with the real provider and contact details and should ideally be reviewed by qualified legal counsel.
 
 ## 1. Provider
 
@@ -22,13 +22,13 @@ Below also referred to as "`Provider`", "`we`", "`us`", or "`our`".
 
 ## 2. Scope
 
-These Terms of Use and End User License Agreement govern the use of the mobile application `SimplyTrain` and any related digital content, features, updates, and optional synchronization functions provided by the Provider.
+These Terms of Use and End User License Agreement govern the use of the mobile application `ProgliQ` and any related digital content, features, updates, and optional synchronization functions provided by the Provider.
 
 Any conflicting terms of the user shall not apply unless we expressly agree to them in text form.
 
 ## 3. Subject Matter
 
-`SimplyTrain` is a digital fitness and strength-training planning application. The app may include, in particular:
+`ProgliQ` is a digital fitness and strength-training planning application. The app may include, in particular:
 
 - automated workout planning based on individual profile and equipment inputs,
 - workout tracking and documentation (sets, reps, loads, RIR),
@@ -42,7 +42,7 @@ The specific feature set is determined by the current App Store description and 
 
 ## 4. No Medical Service
 
-`SimplyTrain` does not provide medical, therapeutic, physiotherapeutic, diagnostic, or other healthcare services. Any training suggestions, exercise instructions, load recommendations, analytics, and other content are provided solely for general information, organization, and documentation purposes.
+`ProgliQ` does not provide medical, therapeutic, physiotherapeutic, diagnostic, or other healthcare services. Any training suggestions, exercise instructions, load recommendations, analytics, and other content are provided solely for general information, organization, and documentation purposes.
 
 The app is not a substitute for medical examination, diagnosis, treatment, or personalized advice from qualified professionals. If the user has any medical condition, pain, dizziness, discomfort, prior injury, rehabilitation need, or other health risk, the user must consult an appropriate medical professional before using the app or performing any training activity.
 
@@ -60,7 +60,7 @@ Where paid content or unlocks are purchased, the agreement governing the use of 
 
 ### 6.1 Free trial
 
-After first sign-in with `Sign in with Apple`, `SimplyTrain` provides a free trial of **60 days**. The full productive feature set of the app is available during the trial.
+After first sign-in with `Sign in with Apple`, `ProgliQ` provides a free trial of **60 days**. The full productive feature set of the app is available during the trial.
 
 The start of the trial is recorded once and immutably in the user's private iCloud (`CloudKit`) data and is bound to the user's Apple ID. This ensures the trial is correctly continued across device changes, app re-installations, or sign-out; a renewed trial with the same Apple ID is not possible.
 

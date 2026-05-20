@@ -3,11 +3,11 @@ title: AGB & Nutzungsbedingungen
 layout: default
 ---
 
-# SimplyTrain - Allgemeine Geschaefts- und Nutzungsbedingungen
+# ProgliQ - Allgemeine Geschaefts- und Nutzungsbedingungen
 
 Stand: [INKRAFTTRETENSDATUM]
 
-> Diese AGB sind ein praxisnaher Entwurf fuer die App `SimplyTrain`. Sie muessen vor der Veroeffentlichung mit den echten Anbieter- und Kontaktdaten vervollstaendigt und idealerweise anwaltlich geprueft werden.
+> Diese AGB sind ein praxisnaher Entwurf fuer die App `ProgliQ`. Sie muessen vor der Veroeffentlichung mit den echten Anbieter- und Kontaktdaten vervollstaendigt und idealerweise anwaltlich geprueft werden.
 
 ## 1. Anbieter
 
@@ -22,13 +22,13 @@ Nachfolgend "`Anbieter`", "`wir`" oder "`uns`".
 
 ## 2. Geltungsbereich
 
-Diese Allgemeinen Geschaefts- und Nutzungsbedingungen regeln die Nutzung der mobilen App `SimplyTrain` sowie saemtlicher hiermit zusammenhaengender digitalen Inhalte, Funktionen, Updates und optionalen Synchronisationsdienste, soweit diese vom Anbieter bereitgestellt werden.
+Diese Allgemeinen Geschaefts- und Nutzungsbedingungen regeln die Nutzung der mobilen App `ProgliQ` sowie saemtlicher hiermit zusammenhaengender digitalen Inhalte, Funktionen, Updates und optionalen Synchronisationsdienste, soweit diese vom Anbieter bereitgestellt werden.
 
 Abweichende Bedingungen des Nutzers gelten nicht, es sei denn, wir stimmen ihrer Geltung ausdruecklich in Textform zu.
 
 ## 3. Vertragsgegenstand
 
-`SimplyTrain` ist eine digitale Fitness- und Trainingsplanungs-App fuer Krafttraining. Die App ermoeglicht insbesondere:
+`ProgliQ` ist eine digitale Fitness- und Trainingsplanungs-App fuer Krafttraining. Die App ermoeglicht insbesondere:
 
 - automatisierte Trainingsplanung auf Basis individueller Profil- und Geraeteeingaben,
 - Workout-Tracking und Trainingsdokumentation (Saetze, Wiederholungen, Gewichte, RIR),
@@ -42,7 +42,7 @@ Die konkrete Funktionsbeschreibung ergibt sich aus der jeweils aktuellen App-Bes
 
 ## 4. Kein medizinisches Angebot
 
-`SimplyTrain` bietet keine medizinische, therapeutische, physiotherapeutische, diagnostische oder sonstige heilkundliche Beratung. Die Inhalte, Trainingsvorschlaege, Uebungshinweise, Belastungsempfehlungen und Auswertungen dienen ausschliesslich allgemeinen Informations-, Organisations- und Dokumentationszwecken.
+`ProgliQ` bietet keine medizinische, therapeutische, physiotherapeutische, diagnostische oder sonstige heilkundliche Beratung. Die Inhalte, Trainingsvorschlaege, Uebungshinweise, Belastungsempfehlungen und Auswertungen dienen ausschliesslich allgemeinen Informations-, Organisations- und Dokumentationszwecken.
 
 Die Nutzung erfolgt nicht als Ersatz fuer eine aerztliche Untersuchung, Diagnose, Behandlung oder individuelle Beratung durch qualifizierte Fachpersonen. Bei bestehenden Beschwerden, Vorerkrankungen, Schmerzen, Schwindel, Unwohlsein, nach Verletzungen, in der Rehabilitation oder bei sonstigen gesundheitlichen Risiken muss vor Nutzung der App und vor Durchfuehrung von Trainingsinhalten eine geeignete medizinische Fachperson konsultiert werden.
 
@@ -60,7 +60,7 @@ Soweit kostenpflichtige Inhalte oder Freischaltungen erworben werden, kommt der 
 
 ### 6.1 Kostenlose Testphase
 
-`SimplyTrain` stellt nach erstmaliger Anmeldung mit `Sign in with Apple` eine kostenlose Testphase von **60 Tagen** bereit. Waehrend der Testphase steht der gesamte produktive Funktionsumfang der App zur Verfuegung.
+`ProgliQ` stellt nach erstmaliger Anmeldung mit `Sign in with Apple` eine kostenlose Testphase von **60 Tagen** bereit. Waehrend der Testphase steht der gesamte produktive Funktionsumfang der App zur Verfuegung.
 
 Der Beginn der Testphase wird einmalig und unveraenderlich im privaten iCloud-Datenraum des Nutzers (`CloudKit`) gespeichert und ist an die Apple-ID des Nutzers gebunden. Damit wird sichergestellt, dass die Testphase auch bei Gerätewechsel, Neuinstallation der App oder Abmeldung korrekt fortgesetzt wird; eine erneute Testphase mit derselben Apple-ID ist nicht moeglich.
 

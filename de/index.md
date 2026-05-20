@@ -1,9 +1,9 @@
 ---
-title: SimplyTrain — Rechtliches
+title: ProgliQ — Rechtliches
 layout: default
 ---
 
-# SimplyTrain — Rechtliche Dokumente
+# ProgliQ — Rechtliche Dokumente
 
 - [Allgemeine Geschäftsbedingungen (AGB)]({{ '/de/agb/' | relative_url }})
 - [Datenschutzerklärung]({{ '/de/datenschutz/' | relative_url }})

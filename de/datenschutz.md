@@ -3,11 +3,11 @@ title: Datenschutzerklärung
 layout: default
 ---
 
-# SimplyTrain - Datenschutzerklaerung
+# ProgliQ - Datenschutzerklaerung
 
 Stand: [INKRAFTTRETENSDATUM]
 
-> Diese Datenschutzerklaerung ist ein projektbezogener Entwurf fuer `SimplyTrain` auf Basis des aktuellen Code- und Feature-Stands. Vor der Veroeffentlichung muessen die Platzhalter vervollstaendigt und die finale Fassung rechtlich geprueft werden.
+> Diese Datenschutzerklaerung ist ein projektbezogener Entwurf fuer `ProgliQ` auf Basis des aktuellen Code- und Feature-Stands. Vor der Veroeffentlichung muessen die Platzhalter vervollstaendigt und die finale Fassung rechtlich geprueft werden.
 
 ## 1. Verantwortlicher
 
@@ -23,9 +23,9 @@ Sofern gesetzlich erforderlich oder vorhanden:
 
 ## 2. Worum es in dieser Datenschutzerklaerung geht
 
-Diese Datenschutzerklaerung informiert darueber, welche personenbezogenen Daten bei der Nutzung der App `SimplyTrain` verarbeitet werden, zu welchen Zwecken dies geschieht, auf welcher Rechtsgrundlage dies beruht, welche Empfaenger beteiligt sein koennen und welche Rechte betroffene Personen haben.
+Diese Datenschutzerklaerung informiert darueber, welche personenbezogenen Daten bei der Nutzung der App `ProgliQ` verarbeitet werden, zu welchen Zwecken dies geschieht, auf welcher Rechtsgrundlage dies beruht, welche Empfaenger beteiligt sein koennen und welche Rechte betroffene Personen haben.
 
-`SimplyTrain` ist eine offline-first iOS-App fuer Trainingsplanung, Workout-Tracking und Fortschrittsdokumentation. Nach aktuellem Stand verarbeitet die App Daten primaer lokal auf dem Geraet. Optionale Apple-Dienste wie `Sign in with Apple`, `CloudKit`, `HealthKit` und lokale iOS-Benachrichtigungen werden nur genutzt, wenn sie fuer bestimmte Funktionen erforderlich oder vom Nutzer aktiviert sind.
+`ProgliQ` ist eine offline-first iOS-App fuer Trainingsplanung, Workout-Tracking und Fortschrittsdokumentation. Nach aktuellem Stand verarbeitet die App Daten primaer lokal auf dem Geraet. Optionale Apple-Dienste wie `Sign in with Apple`, `CloudKit`, `HealthKit` und lokale iOS-Benachrichtigungen werden nur genutzt, wenn sie fuer bestimmte Funktionen erforderlich oder vom Nutzer aktiviert sind.
 
 ## 3. Kategorien personenbezogener Daten
 
@@ -94,7 +94,7 @@ Soweit die DSGVO anwendbar ist, stuetzen wir die Verarbeitung insbesondere auf f
 
 ## 6. Lokale Datenverarbeitung auf deinem Geraet
 
-Nach aktuellem Stand ist `SimplyTrain` als offline-first App aufgebaut. Das bedeutet:
+Nach aktuellem Stand ist `ProgliQ` als offline-first App aufgebaut. Das bedeutet:
 
 - Trainings- und Profildaten werden grundsaetzlich lokal auf deinem iPhone gespeichert.
 - Die lokale Datenhaltung ist die primaere Datenquelle.
@@ -129,7 +129,7 @@ Die Daten werden nach aktuellem Stand lokal im iOS-Keychain bzw. in appbezogenen
 
 ## 8. In-App-Kauf, Abonnements und StoreKit
 
-`SimplyTrain` bietet ueber den Apple App Store eine 60-Tage-Testphase sowie folgende kostenpflichtige Produkte an:
+`ProgliQ` bietet ueber den Apple App Store eine 60-Tage-Testphase sowie folgende kostenpflichtige Produkte an:
 
 - ein automatisch verlaengerbares 6-Monats-Abonnement,
 - ein automatisch verlaengerbares Jahres-Abonnement,
@@ -141,7 +141,7 @@ Die Zahlungsabwicklung sowie die Verwaltung und Kuendigung von Abonnements erfol
 
 ## 9. CloudKit und iCloud
 
-`SimplyTrain` nutzt `CloudKit` (deine private iCloud-Datenbank) fuer zwei unterschiedliche Zwecke:
+`ProgliQ` nutzt `CloudKit` (deine private iCloud-Datenbank) fuer zwei unterschiedliche Zwecke:
 
 ### 9.1 Trial- und Berechtigungs-Statushaltung (essentiell)
 
@@ -216,7 +216,7 @@ Hierfuer werden auf dem Geraet insbesondere folgende Informationen verarbeitet:
 
 ## 13. Keine Werbung, kein App-Tracking, keine Drittanbieter-Analytics
 
-Nach aktuellem Stand des Projekts verwendet `SimplyTrain`:
+Nach aktuellem Stand des Projekts verwendet `ProgliQ`:
 
 - keine Werbe-SDKs,
 - kein app-uebergreifendes Tracking,
@@ -280,7 +280,7 @@ Du kannst viele Daten bereits direkt in der App aendern oder entfernen. Fuer Anf
 
 ## 18. Abmelden, Konto- und Datenloeschung in der App
 
-`SimplyTrain` stellt zwei unterschiedliche Aktionen zur Beendigung oder Unterbrechung der Nutzung bereit:
+`ProgliQ` stellt zwei unterschiedliche Aktionen zur Beendigung oder Unterbrechung der Nutzung bereit:
 
 ### 18.1 Abmelden ("Sign out")
 
@@ -303,7 +303,7 @@ Bei Verwendung der Funktion "Account loeschen" im Profil-/Einstellungsbereich we
 
 ### 18.3 Wichtige Einschraenkungen
 
-- Der Datensatz zum Beginn der Testphase (`firstSignedInAt`, siehe § 9.1) bleibt aus systembedingten Gruenden in deiner privaten iCloud-Datenbank erhalten und wird durch die In-App-Konto-Loeschung **nicht** entfernt. Hintergrund ist die Verhinderung eines wiederholten Trial-Beginns mit derselben Apple-ID. Eine vollstaendige Loeschung dieses Datensatzes kann ueber `Einstellungen` → Apple-ID → `iCloud` → `Apps mit iCloud` → `SimplyTrain` Apple-seitig erfolgen.
+- Der Datensatz zum Beginn der Testphase (`firstSignedInAt`, siehe § 9.1) bleibt aus systembedingten Gruenden in deiner privaten iCloud-Datenbank erhalten und wird durch die In-App-Konto-Loeschung **nicht** entfernt. Hintergrund ist die Verhinderung eines wiederholten Trial-Beginns mit derselben Apple-ID. Eine vollstaendige Loeschung dieses Datensatzes kann ueber `Einstellungen` → Apple-ID → `iCloud` → `Apps mit iCloud` → `ProgliQ` Apple-seitig erfolgen.
 - Ein ueber Apple erworbenes In-App-Subscription-Abo oder `Lifetime`-Entitlement verbleibt bei Apple und wird durch die In-App-Konto-Loeschung nicht aufgehoben. Die Kuendigung eines Abonnements erfolgt ueber die Apple-ID-Einstellungen.
 - Bereits in Apple Health geschriebene Daten werden nicht automatisch durch die App aus Apple Health entfernt. Eine Loeschung kann ueber die Apple-Health-App bzw. Apple-Einstellungen erfolgen.
 

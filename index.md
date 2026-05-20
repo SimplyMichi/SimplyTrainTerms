@@ -1,9 +1,9 @@
 ---
-title: SimplyTrain — Legal
+title: ProgliQ — Legal
 layout: default
 ---
 
-# SimplyTrain — Legal / Rechtliches
+# ProgliQ — Legal / Rechtliches
 
 Choose your language / Wähle deine Sprache:
 

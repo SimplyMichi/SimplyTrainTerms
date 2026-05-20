@@ -1,9 +1,9 @@
 ---
-title: SimplyTrain — Legal
+title: ProgliQ — Legal
 layout: default
 ---
 
-# SimplyTrain — Legal Documents
+# ProgliQ — Legal Documents
 
 - [Terms of Use & EULA]({{ '/en/terms/' | relative_url }})
 - [Privacy Policy]({{ '/en/privacy/' | relative_url }})
